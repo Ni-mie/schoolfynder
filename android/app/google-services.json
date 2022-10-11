@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "401975708582",
+    "project_id": "propzing-assignment",
+    "storage_bucket": "propzing-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401975708582:android:5b2a49f033b5b1489d5d67",
+        "android_client_info": {
+          "package_name": "com.example.propzing_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401975708582-0d4p27d7d1v4cvgsrfv1248k55upv76q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.propzing_assignment",
+            "certificate_hash": "f1ef61b6586d624c457b8bd0061aa077ad4ebf17"
+          }
+        },
+        {
+          "client_id": "401975708582-ku3jgrcrh5hnh3ulct9bnnjnkrsgahj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS4LWteL5H6eCHSIwEJw7K2VvJ4R2Be48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401975708582-ku3jgrcrh5hnh3ulct9bnnjnkrsgahj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
