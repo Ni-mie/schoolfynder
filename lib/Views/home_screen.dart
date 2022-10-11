@@ -25,11 +25,9 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   void initState() {
     fetchschools();
-    fetchcountries('Canada');
+
     super.initState();
   }
-
-  fetchcountries(String query) {}
 
   fetchschools() async {
     schools = await ApiService.fetchschools();
